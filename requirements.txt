@@ -1,0 +1,6 @@
+zenml[server]==0.70.0
+notebook
+scikit-learn
+pyarrow
+pandas
+mlflow

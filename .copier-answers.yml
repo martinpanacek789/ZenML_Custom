@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier
+_commit: 2024.10.30
+_src_path: gh:zenml-io/template-starter
+email: ''
+full_name: Martin Panacek
+open_source_license: apache
+project_name: ZenML example
+version: 0.1.0
